@@ -1,0 +1,10 @@
+Tìm hiểu Bit Shift
+Sau khi tìm hiểu 1 số tài liệu trên internet em có tìm được nói về Bit Shitf trong  link Oracle. 
+•	Có đề cập đến cách dịch chuyển vị trí bit.
+Thứ 2 là trong cuốn sách : OCA Java SE 8 Programmer I Study Guide
+•	Hướng dẫn chuyển đổi bit
+* Dịch phải: ta có n la số bit, s là bit postions. Thì kết quả là n/2s
+Key work search: bit shift operator shift left	(Tìm mục sách)
+Link tham khảo: https://docs.oracle.com/javase/tutorial/java/nutsandbolts/op3.html
+Link book: https://books.google.com.vn/books?id=Cm8dCgAAQBAJ&pg=PT37&dq=bit+shift+operator+in+java+oca&hl=vi&sa=X&ved=0ahUKEwiXitbz_IPOAhUCp5QKHdFbC6cQ6AEIGTAA#v=onepage&q=bit%20shift%20operator%20in%20java%20oca&f=false
+
